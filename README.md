@@ -1,23 +1,6 @@
-# atom-ide-template-js
+# Pulsar Addon Format
+This layout gives the fundamental necessities to a @pulsar-edit addon.
 
-This is a template for atom-ide-community packages using JavaScript. It is recommended to use [the TypeScript template](https://github.com/atom-ide-community/atom-ide-template) instead.
+**Note: I'm not a maintainer of Pulsar; this is just a format. This might be moved to the pulsar-alter organization.**
 
-Use `Ctrl+Shift+F` and replace `atom-ide-template-js` with `atom-ide-packagename`. Then put your name in the license section and author section.
-
-![Build Status (Github Actions)](https://github.com/atom-ide-community/atom-ide-template-js/workflows/CI/badge.svg)
-[![Dependency Status](https://david-dm.org/atom-ide-community/atom-ide-template-js.svg)](https://david-dm.org/atom-ide-community/atom-ide-template-js)
-[![apm](https://img.shields.io/apm/dm/atom-ide-template-js.svg)](https://github.com/atom-ide-community/atom-ide-template-js)
-[![apm](https://img.shields.io/apm/v/atom-ide-template-js.svg)](https://github.com/atom-ide-community/atom-ide-template-js)
-
-## Features
-
--
-
-## Usage
-
-## Roadmap
-
-## Contributing
-
-- Let me know if you encounter any bugs.
-- Feature requests are always welcome.
+In view of the Particle People group layout in JavaScript.
