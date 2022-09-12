@@ -42,7 +42,7 @@
     "build-commit": "0.1.4",
     "cross-env": "^7.0.3",
     "eslint-config-atomic": "^1.16.2",
-    "npm-check-updates": "11.8.5",
+    "npm-check-updates": "16.1.2",
     "prettier-config-atomic": "^2.0.5",
     "rollup-plugin-atomic": "^3.0.1",
     "shx": "^0.3.3",
