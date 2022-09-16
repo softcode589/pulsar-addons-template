@@ -1,18 +1,20 @@
 describe("tests", () => {
   beforeEach(async () => {
-    jasmine.attachToDOM(atom.views.getView(atom.workspace))
+    jasmine.attachToDOM(atom.views.getView(atom.workspace));
 
     /*    Activation     */
     // Trigger deferred activation
-    atom.packages.triggerDeferredActivationHooks()
+    atom.packages.triggerDeferredActivationHooks();
     // Activate activation hook
-    atom.packages.triggerActivationHook("core:loaded-shell-environment")
+    atom.packages.triggerActivationHook("core:loaded-shell-environment");
 
     // Activate the package
-    await atom.packages.activatePackage("pulsar-addon-template-js")
-  })
+    await atom.packages.activatePackage("pulsar-addon-template-js");
+  });
 
   it("Activation", function () {
-    expect(atom.packages.isPackageLoaded("pulsar-addon-template-js")).toBeTruthy()
-  })
-})
+    expect(
+      atom.packages.isPackageLoaded("pulsar-addon-template-js")
+    ).toBeTruthy();
+  });
+});
