@@ -59,7 +59,8 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at our public Discord: https://discord.gg/3Dcwpj4YnD.
+reported to the community leaders responsible for enforcement at
+(CONTACT METHOD HERE).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
