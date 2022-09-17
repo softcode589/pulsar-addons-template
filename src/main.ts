@@ -1,3 +1,5 @@
+"use strict";
+
 import { CompositeDisposable } from "atom";
 
 // Events subscribed to in atom's system can be easily cleaned up with a CompositeDisposable
