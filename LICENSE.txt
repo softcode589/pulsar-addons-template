@@ -1,6 +1,6 @@
-The MIT License (MIT)
+MIT License
 
-Copyright (c) 2020 <Your Name>
+Copyright (c) <Year> <Your Name>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -20,7 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This repository might include code from the following projects, which have their own licenses:
+Other licenses from other software:
 - [atom-ide-ui](https://github.com/facebookarchive/atom-ide-ui/blob/master/LICENSE):
   > BSD License
   > 
