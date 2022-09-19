@@ -1,13 +1,12 @@
 {
-  "name": "pulsar-addon-template-js",
+  "name": "edit-this",
   "main": "dist/main.js",
   "version": "0.1.0",
   "author": "<Your Name>",
   "description": "  ",
   "keywords": [],
-  "repository": "https://github.com/atom-ide-community/pulsar-addon-template-js",
+  "repository": "https://github.com/softcode589/pulsar-addon-template",
   "license": "MIT",
-  "prettier": "prettier-config-atomic",
   "scripts": {
     "format": "prettier --write .",
     "test.format": "prettier . --check",
@@ -41,8 +40,6 @@
     "babel-preset-atomic": "^5.0.0",
     "build-commit": "0.1.4",
     "cross-env": "^7.0.3",
-    "eslint-config-atomic": "^1.16.2",
-    "rollup-plugin-atomic": "^3.0.1",
     "shx": "^0.3.3",
     "typescript": "^4.3.5"
   },

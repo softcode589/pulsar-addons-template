@@ -11,12 +11,13 @@ describe("Benchmark", () => {
     await Promise.all(deps.map((p) => atom.packages.activatePackage(p)));
 
     // Activate the package
-    measure("Activation Time", async function activationBenchmark() {
-      await atom.packages.activatePackage("pulsar-addon-template-js");
+    measure("Activation Time",
+     async function activationBenchmark() {
+    await atom.packages.activatePackage("atom-ide-template-js");
     });
 
     expect(
-      atom.packages.isPackageLoaded("pulsar-addon-template-js")
+      atom.packages.isPackageLoaded("atom-ide-template-js") // 
     ).toBeTruthy();
   });
 });
