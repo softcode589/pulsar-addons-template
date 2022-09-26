@@ -35,7 +35,7 @@
 
     "@types/atom": "1.40.11",
     "@types/jasmine": "^4.3.0",
-    "@types/node": "^16.6.0",
+    "@types/node": "^18.7.21",
     "atom-jasmine3-test-runner": "^5.2.7",
     "babel-preset-atomic": "^5.0.0",
     "build-commit": "0.1.4",
